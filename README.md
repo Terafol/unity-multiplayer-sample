@@ -80,4 +80,4 @@ This code represents my contribution to a larger collaborative project.
 ---
 
 **Contact:** louplangard@gmail.com  
-**LinkedIn:** [in/loup-langard](https://linkedin.com/in/loup-langard)
+**LinkedIn:** [in/loup-langard](www.linkedin.com/in/loup-langard-6bbba421b)
