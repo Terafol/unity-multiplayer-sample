@@ -4,6 +4,8 @@ Code sample from a collaborative music creation platform developed during my int
 
 **Note:** This repository contains only parts of the code I personally wrote. The full project source code is proprietary to Emotionwave and cannot be shared.
 
+Watch the game in action: https://youtu.be/vyDpWp3eFao
+
 ---
 
 ## Project Overview
@@ -12,10 +14,12 @@ Real-time 3D multiplayer music creation platform built in Unity with C#. The sys
 
 **Duration:** 3 months (July - September 2024)  
 **Role:** R&D Engineer Intern  
-**First Unity project** - learned the engine while building this system
+**First Unity project** learned the engine while building this system
+**International**: First work experience abroad with a language barrier
 
 The code shown is taken from the internal beta build released in September 2024
 
+The files come from two different projects: a lobby with login and automatic account creation, and a collaborative music creation tool/game.
 ---
 
 ## Technical Highlights
@@ -72,11 +76,6 @@ Building this as my first Unity project taught me:
 
 The modular configuration approach I implemented here has influenced how I design systems in subsequent projects.
 
----
-
-## Context
-
-This code represents my contribution to a larger collaborative project.
 ---
 
 **Contact:** louplangard@gmail.com  
