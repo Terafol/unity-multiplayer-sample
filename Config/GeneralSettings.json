@@ -1,0 +1,24 @@
+{
+    "Parameters": {
+        "Languages": [
+            "English",
+            "French",
+            "Korean"
+        ]
+    },
+    "Api": {
+        "ApiKey": "Password1234",
+        "AutoCreateAccountUrl": "https://stage-cloud-api-dev.muta.live/users/token",
+        "SignupUrl": "https://stage-cloud-api-dev.muta.live/users/signup",
+        "LoginUrl": "https://stage-cloud-api-dev.muta.live/users/login",
+        "CheckNicknameUrl": "https://stage-cloud-api-dev.muta.live/users/checkNickname",
+        "EditProfileUrl": "https://stage-cloud-api-dev.muta.live/users/profile",
+        "FriendRequestUrl": "https://stage-cloud-api-dev.muta.live/community/friendRequest",
+        "FriendListUrl": "https://stage-cloud-api-dev.muta.live/community/friendList"
+    },
+    "Path": {
+        "Language": "Parameters/Language/",
+        "GeneralSettings": "Parameters/GeneralSettings.json",
+        "UserSettings": "Parameters/UserSettings.json"
+    }
+}
